@@ -1,0 +1,3 @@
+C:/Users/Alex/Desktop/Development/SDL Projects/CoinCollector/vs_project/CMakeFiles/CoinCollector.dir
+C:/Users/Alex/Desktop/Development/SDL Projects/CoinCollector/vs_project/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alex/Desktop/Development/SDL Projects/CoinCollector/vs_project/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CoinCollector.dir/src/main.cpp.o CMakeFiles/CoinCollector.dir/src/Game.cpp.o CMakeFiles/CoinCollector.dir/src/Object.cpp.o CMakeFiles/CoinCollector.dir/src/Texture.cpp.o CMakeFiles/CoinCollector.dir/src/Player.cpp.o CMakeFiles/CoinCollector.dir/src/Camera.cpp.o -o CoinCollector  -lSDL2main -lSDL2 
